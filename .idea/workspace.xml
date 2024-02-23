@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb1d6be-36ce-4f64-afe1-5716bcf8084e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/MenuItem.java" afterDir="false" />
+    <list default="true" id="1fb1d6be-36ce-4f64-afe1-5716bcf8084e" name="Changes" comment="Created Project and included Interface and 3 classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Salad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Salad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +19,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -43,7 +46,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature-1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,8 +62,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708706484230</updated>
-      <workItem from="1708706485256" duration="238000" />
+      <workItem from="1708706485256" duration="967000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Project and included Interface and 3 classes">
+      <option name="closed" value="true" />
+      <created>1708706794984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708706794984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,10 +83,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Project and included Interface and 3 classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Project and included Interface and 3 classes" />
   </component>
 </project>
